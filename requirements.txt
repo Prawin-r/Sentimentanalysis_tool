@@ -1,0 +1,11 @@
+streamlit
+pandas
+torch==2.0.0+cpu
+torchvision
+torchaudio
+transformers
+vaderSentiment
+scikit-learn
+seaborn
+matplotlib
+numpy
