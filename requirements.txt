@@ -1,6 +1,6 @@
 streamlit
 pandas
-torch==2.0.0+cpu
+torch
 torchvision
 torchaudio
 transformers
